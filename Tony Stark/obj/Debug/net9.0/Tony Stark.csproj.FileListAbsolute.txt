@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\La Misión Secreta de Tony Stark\Tony Stark\bin\Debug\net9.0\Tony Stark.exe
+C:\Users\Gabriel\Desktop\La Misión Secreta de Tony Stark\Tony Stark\bin\Debug\net9.0\Tony Stark.deps.json
+C:\Users\Gabriel\Desktop\La Misión Secreta de Tony Stark\Tony Stark\bin\Debug\net9.0\Tony Stark.runtimeconfig.json
+C:\Users\Gabriel\Desktop\La Misión Secreta de Tony Stark\Tony Stark\bin\Debug\net9.0\Tony Stark.dll
+C:\Users\Gabriel\Desktop\La Misión Secreta de Tony Stark\Tony Stark\bin\Debug\net9.0\Tony Stark.pdb
+C:\Users\Gabriel\Desktop\La Misión Secreta de Tony Stark\Tony Stark\obj\Debug\net9.0\Tony Stark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\La Misión Secreta de Tony Stark\Tony Stark\obj\Debug\net9.0\Tony Stark.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\La Misión Secreta de Tony Stark\Tony Stark\obj\Debug\net9.0\Tony Stark.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\La Misión Secreta de Tony Stark\Tony Stark\obj\Debug\net9.0\Tony Stark.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\La Misión Secreta de Tony Stark\Tony Stark\obj\Debug\net9.0\Tony Stark.dll
+C:\Users\Gabriel\Desktop\La Misión Secreta de Tony Stark\Tony Stark\obj\Debug\net9.0\refint\Tony Stark.dll
+C:\Users\Gabriel\Desktop\La Misión Secreta de Tony Stark\Tony Stark\obj\Debug\net9.0\Tony Stark.pdb
+C:\Users\Gabriel\Desktop\La Misión Secreta de Tony Stark\Tony Stark\obj\Debug\net9.0\Tony Stark.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\La Misión Secreta de Tony Stark\Tony Stark\obj\Debug\net9.0\ref\Tony Stark.dll
